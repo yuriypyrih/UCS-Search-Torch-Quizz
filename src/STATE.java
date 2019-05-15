@@ -1,0 +1,5 @@
+
+public enum STATE {
+	BEFORE_BRIDGE,
+	AFTER_BRIDGE
+}
